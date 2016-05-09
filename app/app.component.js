@@ -24,7 +24,7 @@ System.register(['angular2/core'], function(exports_1, context_1) {
                 AppComponent = __decorate([
                     core_1.Component({
                         selector: 'my-app',
-                        template: '<h1>Looks like things are working locally, let\'s try a publish.</h1>'
+                        template: '<h1>And on Azure...?</h1>'
                     }), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);
